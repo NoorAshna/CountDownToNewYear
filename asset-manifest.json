@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/CountDownToNewYear/static/css/main.758ea39a.css",
+    "main.js": "/CountDownToNewYear/static/js/main.76477bf5.js",
+    "static/js/787.79b634b7.chunk.js": "/CountDownToNewYear/static/js/787.79b634b7.chunk.js",
+    "static/media/snow.jpg": "/CountDownToNewYear/static/media/snow.c5c5f33438d6ebe9d00f.jpg",
+    "static/media/logo.svg": "/CountDownToNewYear/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/CountDownToNewYear/index.html",
+    "main.758ea39a.css.map": "/CountDownToNewYear/static/css/main.758ea39a.css.map",
+    "main.76477bf5.js.map": "/CountDownToNewYear/static/js/main.76477bf5.js.map",
+    "787.79b634b7.chunk.js.map": "/CountDownToNewYear/static/js/787.79b634b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.758ea39a.css",
+    "static/js/main.76477bf5.js"
+  ]
+}
